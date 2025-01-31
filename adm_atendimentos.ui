@@ -24,14 +24,12 @@
 color: rgb(68, 68, 68);
 background-color: rgb(255, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }
 
 QPushButton:pressed { 
 color: rgb(68, 68, 68);
 background-color: rgb(170, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }</string>
         </property>
         <property name="text">
@@ -48,7 +46,7 @@ border-widht: 1px;
          <string notr="true">color: rgb(144, 144, 144);
 background-color: rgb(176, 251, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;</string>
+</string>
         </property>
         <property name="text">
          <string>Atendimentos</string>
@@ -62,14 +60,12 @@ border-widht: 1px;</string>
 color: rgb(68, 68, 68);
 background-color: rgb(255, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }
 
 QPushButton:pressed { 
 color: rgb(68, 68, 68);
 background-color: rgb(170, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }</string>
         </property>
         <property name="text">
@@ -84,14 +80,12 @@ border-widht: 1px;
 color: rgb(68, 68, 68);
 background-color: rgb(255, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }
 
 QPushButton:pressed { 
 color: rgb(68, 68, 68);
 background-color: rgb(170, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }</string>
         </property>
         <property name="text">
@@ -106,14 +100,12 @@ border-widht: 1px;
 color: rgb(68, 68, 68);
 background-color: rgb(255, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }
 
 QPushButton:pressed { 
 color: rgb(68, 68, 68);
 background-color: rgb(170, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }</string>
         </property>
         <property name="text">
@@ -126,7 +118,7 @@ border-widht: 1px;
     <item>
      <widget class="QTabWidget" name="tabWidget">
       <property name="currentIndex">
-       <number>1</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="atendimentos">
        <attribute name="title">
@@ -183,7 +175,6 @@ border-widht: 1px;
               <string notr="true">color: rgb(255, 255, 255);
 background-color: rgb(7, 255, 226);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 </string>
              </property>
              <property name="text">
@@ -363,7 +354,6 @@ background-color: rgb(255, 255, 255);</string>
                 <string notr="true">color: rgb(255, 255, 255);
 background-color: rgb(7, 255, 226);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 </string>
                </property>
                <property name="text">

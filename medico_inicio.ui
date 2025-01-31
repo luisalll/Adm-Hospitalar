@@ -71,7 +71,7 @@
      </spacer>
     </item>
     <item row="2" column="1">
-     <widget class="QWidget" name="" native="true">
+     <widget class="QWidget" name="widget" native="true">
       <property name="styleSheet">
        <string notr="true">background-color: rgb(255, 255, 255);</string>
       </property>
@@ -106,7 +106,6 @@
 color: rgb(144, 144, 144);
 background-color: rgb(176, 251, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 </string>
            </property>
            <property name="text">
@@ -120,14 +119,12 @@ border-widht: 1px;
             <string notr="true">QPushButton { 
 color: rgb(68, 68, 68);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }
 
 QPushButton:pressed { 
 color: rgb(68, 68, 68);
 background-color: rgb(170, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }</string>
            </property>
            <property name="text">
@@ -141,14 +138,12 @@ border-widht: 1px;
             <string notr="true">QPushButton { 
 color: rgb(68, 68, 68);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }
 
 QPushButton:pressed { 
 color: rgb(68, 68, 68);
 background-color: rgb(170, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }</string>
            </property>
            <property name="text">
@@ -162,14 +157,12 @@ border-widht: 1px;
             <string notr="true">QPushButton { 
 color: rgb(68, 68, 68);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }
 
 QPushButton:pressed { 
 color: rgb(68, 68, 68);
 background-color: rgb(170, 255, 255);
 border-color: rgb(48, 245, 255);
-border-widht: 1px;
 }</string>
            </property>
            <property name="text">
@@ -183,7 +176,7 @@ border-widht: 1px;
      </widget>
     </item>
     <item row="1" column="1">
-     <widget class="QWidget" name="" native="true">
+     <widget class="QWidget" name="widget" native="true">
       <property name="styleSheet">
        <string notr="true">background-color: rgb(255, 255, 255);</string>
       </property>
@@ -229,7 +222,7 @@ border-widht: 1px;
      </widget>
     </item>
     <item row="3" column="1">
-     <widget class="QWidget" name="" native="true">
+     <widget class="QWidget" name="widget" native="true">
       <property name="styleSheet">
        <string notr="true">background-color: rgb(255, 255, 255);</string>
       </property>
