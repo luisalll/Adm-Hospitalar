@@ -25,11 +25,7 @@ Tela de Início - Médico:
 
 Aba para marcar um novo atendimento - Médicos:
 
-![WhatsApp Image 2025-01-30 at 22 35 20](https://github.com/user-attachments/assets/a56def79-2ae8-465f-b83b-a22f337f7cf6)
-
-Aba de atendimentos já programados:
-
-![WhatsApp Image 2025-01-30 at 22 35 53](https://github.com/user-attachments/assets/c29d3fce-39b3-49bd-a9ad-ba78002d4319)
+![WhatsApp Image 2025-01-30 at 22 35 53](https://github.com/user-attachments/assets/d711c9d2-2b98-498d-b9d9-f10b771b3b8d)
 
 Tela de edição do Cadastro - Médico:
 
